@@ -1,0 +1,1 @@
+This is a simple practice app using [Ruby on Rails](http://rubyonrails.org/)
